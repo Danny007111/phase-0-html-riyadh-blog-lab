@@ -21,7 +21,9 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-image: linear-gradient(to bottom right, rgb(60, 78, 237), yellow);
+  border-style: solid;
+  border-color: blue
 }
 
 h1, h2 {
